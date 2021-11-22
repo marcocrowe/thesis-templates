@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Using Microsoft Word with git
+# https://blog.front-matter.io/posts/using-microsoft-word-with-git
+*.docx diff=pandoc
