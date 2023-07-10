@@ -2,13 +2,11 @@ name: Build Markdown Files of Word Documents
 
 on: push
 
-permissions:
-  contents: read
-
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
     steps:
+      - uses: actions/checkout@v3
       - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
