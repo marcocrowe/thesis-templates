@@ -2,6 +2,9 @@ name: Build Markdown Files of Word Documents
 
 on: push
 
+permissions:
+  contents: read
+
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
