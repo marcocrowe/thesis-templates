@@ -6,7 +6,7 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
     steps:
-      - uses: docker://pandoc/core:3.1.5
+      - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
             sample-ai-thesis.docx
