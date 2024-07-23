@@ -5,13 +5,16 @@ A collection of example thesis templates with a sample Table of Contents with th
 
 ## Thesis Sample Templates
 
-- Sample AI Thesis: [sample-ai-thesis.docx](./sample-ai-thesis.docx)
+- Sample AI Thesis: [sample-ai-thesis.docx](./sample-ai-thesis.docx) - [pdf](./sample-ai-thesis.pdf)
+- [TUS Thesis Checklist](docs/tus-thesis-checklist.md)
 
 ## Recommended Editors
 
 - [Microsoft Office Word](https://www.microsoft.com/microsoft-365/)
 - [Microsoft Office Word Online at Microsoft 365](https://www.office.com/launch/word)
 - [VS Code](https://code.visualstudio.com/): [Office Viewer](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office)
+- [Reveal.js](https://revealjs.com/): [Markdown](https://revealjs.com/markdown/)
+  - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) - For slides and presentations
 
 ## Conversion Tools
 
@@ -33,4 +36,4 @@ pandoc -f docx -t markdown sample-ai-thesis.docx -o sample-ai-thesis.md --extrac
 ```
 
 ---
-Copyright (c) 2021 Mark Crowe <https://github.com/markcrowe-com>. All rights reserved.
+Copyright &copy; 2021 Mark Crowe <https://github.com/marcocrowe>. All rights reserved.
