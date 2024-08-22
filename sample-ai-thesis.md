@@ -545,10 +545,7 @@ so on.
 
 ## Code Style Guide {#code-style-guide-1 .Appendix:-H2}
 
-\"This appears to be a region of space that doesn\'t have many rules.
-But I believe we can learn something from the events that have unfolded.
-In a part of space where there are few rules, it\'s more important than
-ever that we hold fast to our own.\" -- Captain Janeway, 2372
+"This appears to be a region of space that doesn't have many rules. But I believe we can learn something from the events that have unfolded. In a part of space where there are few rules, it's more important than ever that we hold fast to our own." -- Captain Janeway, 2372
 
 ### Naming conventions {#naming-conventions .Appendix:-H3}
 
