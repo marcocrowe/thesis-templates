@@ -6,8 +6,8 @@ A collection of example thesis templates with a sample Table of Contents with th
 ## Thesis Sample Templates
 
 - Sample AI Thesis: [sample-ai-thesis.docx](./sample-ai-thesis.docx) - [pdf](./sample-ai-thesis.pdf)
-- Sample TUS FYP Thesis: [docs/tus-fyp-report-thesis-template.docx](./docs/tus-fyp-report-thesis-template.docx) - [pdf](./sample-ai-thesis.pdf)
-- [TUS Thesis Checklist](docs/tus-thesis-checklist.md)
+- Sample TUS FYP Thesis: [docs/tus-fyp-report-thesis-template.docx](./docs/tus-fyp-report-thesis-template.docx) - [pdf](./docs/tus-fyp-report-thesis-template.pdf)
+- [TUS Thesis Checklist](docs/tus-thesis-checklist.md)[text]()
 
 ## Recommended Editors
 

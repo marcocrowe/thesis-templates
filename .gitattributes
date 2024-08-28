@@ -2,5 +2,5 @@
 * text=auto
 
 # Using Microsoft Word with git
-# https://blog.front-matter.io/posts/using-microsoft-word-with-git
+# https://github.com/marcocrowe/track-ms-word-docx-with-github
 *.docx diff=pandoc
